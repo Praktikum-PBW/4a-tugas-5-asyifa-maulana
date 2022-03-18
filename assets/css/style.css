@@ -1,0 +1,16 @@
+/* Navbar */
+#gambar{
+    padding: 5px;
+}
+#navbar a{
+    border-bottom: 4px solid #f8f9fa;
+    color: #00CCC0;
+}
+#navbar a:hover, #navbar .active{
+    border-bottom-color: #72F2EB;
+    transition: 1000ms;
+}
+/* show of */
+/* #showof{
+    padding-left: 250px;
+} */
